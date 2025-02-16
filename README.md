@@ -1,2 +1,2 @@
 # php_ragistration , in this process this is completed with php ......
-thia is use to make program
+thia is use to make program,to solve the 
